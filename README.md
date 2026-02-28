@@ -7,30 +7,31 @@ This repository contains organized academic work, assignments, lab work, and str
 ## 📚 Subjects Covered
 
 ### 1️⃣ Algorithms and Complexity
-- Structured Notes
-- Assignments
-- Lab Work
-- Important Concepts & Implementations
+- Algorithm design paradigms  
+- Asymptotic analysis  
+- NP-completeness & reductions  
+- Lab implementations 
 
 ### 2️⃣ Mathematical Foundations of Computer Science
-- Discrete Mathematics
-- Graph Theory
-- Combinatorics
-- Group Theory
-- Previous Year Questions
+- Discrete Mathematics  
+- Combinatorics  
+- Graph Theory  
+- Group Theory  
+- Proof techniques  
 
 ### 3️⃣ Cryptography & Number Theory
-- Classical & Modern Cryptography
-- Elliptic Curve Cryptography
-- Chinese Remainder Theorem
-- Lab Experiments
-- Problem Sets
+- Classical & Modern Cryptography  
+- Number Theoretic Foundations  
+- Elliptic Curve Cryptography  
+- Secure Computation Concepts  
 
 ### 4️⃣ Principles of Information Security
-- Cryptography & Network Security
-- Access Control
-- Secure Coding Practices
-- Assignments & Project Work
+- Network Security  
+- Secure Coding  
+- Access Control Models  
+- Security Standards  
+- Web Application Security
+- Threat Modeling
 
 ### 5️⃣ Lab Work
 - Algorithms Lab
@@ -41,21 +42,28 @@ This repository contains organized academic work, assignments, lab work, and str
 ---
 
 ## 📂 Repository Structure
-M.Tech-Academics-Sem-1
-- 1.Algorithms_and_Complexity
-- 2.Mathematical_Foundations
-- 3.Cryptography_and_Number_Theory
-- 4.Principles_of_Information_Security
-- 5.Lab_Work
-- Resources.md
+
+Each subject folder contains:
+
+- 📘 Notes
+- 📑 Lecture Slides
+- 📝 Assignments
+- 🧠 Important Concepts
+- 📄 Previous Year Question Papers
+
+Large reference textbooks and archives are stored externally.
+🔗 [View External Resources](Resources.md)
 
 ---
 
-## 📌 Notes
+## 🎯 Semester Focus
 
-- Large textbooks and course archives are stored externally (Resources.md file).
-- This repository focuses on structured academic work and clean organization.
-- Designed for academic documentation and portfolio representation.
+Semester 1 emphasized:
+
+- Mathematical rigor  
+- Foundations of cryptographic systems  
+- Secure programming principles  
+- Algorithmic analysis discipline
 
 ---
 
