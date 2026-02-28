@@ -23,7 +23,8 @@ that are stored externally to maintain a clean repository.
 
 ## 📙 Cryptography & Number Theory
 
-- 📘[Cryptography Books Collection](https://drive.google.com/file/d/19GtTJLuozoZKvE0tE0eGel0dc1SsuzF7/view?usp=drive_link)
+- Elementary Number Theory, by David M. Burton - [Solutions](http://www.americanriver.com/mathematics/elementary_number_theory.html)
+- 📘Cryptography Books [Collection](https://drive.google.com/file/d/19GtTJLuozoZKvE0tE0eGel0dc1SsuzF7/view?usp=drive_link)
 - 📄 [ECC Handout](https://share.google/CNfcgPXIUMWkE6VRA)
 - 📄 [Chinese Remainder Theorem Notes](https://drive.google.com/file/d/1XVbKcBiWsp1CgODjaAJuE2eutpwnrhx6/view?usp=drive_link)
 

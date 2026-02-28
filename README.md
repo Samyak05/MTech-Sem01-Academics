@@ -51,7 +51,7 @@ Each subject folder contains:
 - 🧠 Important Concepts
 - 📄 Previous Year Question Papers
 
-Large reference textbooks and archives are stored externally.
+Large reference textbooks and archives are stored externally.   
 🔗 [View External Resources](Resources.md)
 
 ---
