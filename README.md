@@ -1,6 +1,6 @@
 # 🎓 M.Tech – Semester 1 Academic Repository
 
-This repository contains organized academic work, assignments, lab work, and structured notes for Semester 1 of my M.Tech program.
+This repository contains organized academic work, assignments, lab work, and structured notes for Semester 1 of my M.Tech in Computer Science at NIT Surathkal.
 
 ---
 
