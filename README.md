@@ -1,6 +1,10 @@
 # 🎓 M.Tech – Semester 1 Academic Repository
+![Semester](https://img.shields.io/badge/Semester-1-green)
+![Program](https://img.shields.io/badge/M.Tech-CSE-blue)
+![Institute](https://img.shields.io/badge/NIT-Surathkal-red)
+![GitHub stars](https://img.shields.io/github/stars/Samyak05/MTech-Sem01-Academics?style=social)
 
-This repository contains organized academic work, assignments, lab work, and structured notes for Semester 1 of my M.Tech in Computer Science at NIT Surathkal.
+This repository contains organized notes, assignments, lab work, study materials, and academic resources for Semester 1 of my M.Tech in Computer Science at NIT Surathkal.
 
 ---
 
@@ -58,7 +62,7 @@ Large reference textbooks and archives are stored externally.
 
 ## 🎯 Semester Focus
 
-Semester 1 emphasized:
+Semester 1 focused on:
 
 - Mathematical rigor  
 - Foundations of cryptographic systems  
@@ -71,7 +75,7 @@ Semester 1 emphasized:
 
 **Samyak Gedam**  
 M.Tech – Computer Science  
-National Institure of Technology Surathkal, Karnataka
+National Institute of Technology Surathkal, Karnataka
 
 ---
 
@@ -79,4 +83,4 @@ National Institure of Technology Surathkal, Karnataka
 
 ---
 
-> "Structured knowledge beats scattered information."
+> *Structured knowledge beats scattered information.*  
