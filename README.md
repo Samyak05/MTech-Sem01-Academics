@@ -75,4 +75,8 @@ National Institure of Technology Surathkal, Karnataka
 
 ---
 
+⭐ If you find this repository helpful, please consider giving it a star. Feel free to explore the materials. Happy learning!
+
+---
+
 > "Structured knowledge beats scattered information."
